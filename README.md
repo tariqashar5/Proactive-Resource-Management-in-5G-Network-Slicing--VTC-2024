@@ -111,6 +111,7 @@ https://ieeexplore.ieee.org/document/10757954 (DOI: 10.1109/VTC2024-Fall63153.20
 For questions, collaborations, or further information, feel free to reach out:
 
 - 📧 Muhammad Ashar Tariq — [tariqashar5@gmail.com](mailto:tariqashar5@gmail.com)
+- 🔗 LinkedIn — [linkedin.com/in/tariqashar5](https://www.linkedin.com/in/tariqashar5)
 
 ---
 
