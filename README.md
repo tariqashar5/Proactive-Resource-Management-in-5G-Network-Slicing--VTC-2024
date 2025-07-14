@@ -103,4 +103,20 @@ https://ieeexplore.ieee.org/document/10757954 (DOI: 10.1109/VTC2024-Fall63153.20
   organization={IEEE}
 }
 ```
+
+---
+
+## 📬 Contact
+
+For questions, collaborations, or further information, feel free to reach out:
+
+- 📧 Muhammad Ashar Tariq — [tariqashar5@gmail.com](mailto:tariqashar5@gmail.com)
+
+---
+
+## 🔒 License
+
+This repository is intended for **academic and research purposes only**.  
+Please contact the authors for permission regarding commercial use or redistribution.
+
 ---
